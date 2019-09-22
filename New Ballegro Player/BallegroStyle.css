@@ -1,0 +1,58 @@
+header {
+  border: 2px solid black;
+  Margin: 10px 10px 10px 10px;
+  color: black;
+  background-color: gray;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+Nav {
+  border:2px solid Black;
+  Margin: 10px 10px 10px 10px;
+  Color: black;
+  background-color: white;
+  font-weight: bold;
+  Text-align: left;
+}
+a:link {
+  color: Red;
+}
+a:visited {
+  color: gray;
+}
+a:active {
+  color: black;
+}
+a:hover {
+  color: black;
+}
+main{
+  border: 2px solid Black;
+  Margin: 10px 10px 10px 10px;
+  Font-family: Arial:
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  Background-color: gray;
+  text-align: center;
+}
+footer {
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+  color: black;
+  background-color: white;
+  font-family: Arial;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+}
+body {
+  background-color: red;
+}
+.subhead {
+  Color: red;
+}
