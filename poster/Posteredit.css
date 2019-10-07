@@ -1,0 +1,67 @@
+.Starring {
+ color: #489797;
+line-height: -60px;
+}
+.written {
+  font-family: Helvetica;
+  font-weight: 1000;
+  font-size: 20px;
+  line-height: -100px;
+}
+.Joel {
+  font-size: 27px;
+  font-weight: 800;
+  font-family: Helvetica;
+}
+.names {
+  color: #489797;
+  font-size: 30px;
+}
+.Inside {
+  font-size: 70px;
+  line-height: 60px;
+}
+.coming{
+  font-size: 20px;
+  line-height: -4px;
+}
+body {
+  font-weight: bolder;
+  text-align: center;
+  font-family: Helvetica;
+  Font-weight: 1000px;
+  font-size: 20px;
+  background-position: center;
+  background-image: url(paper.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  background-color: #489797;
+  background-color: top;
+  border-top: 10px solid #489797;
+  border-bottom: 10px solid #489797;
+  line-height: 25px;
+}
+a {
+  color: #489797;
+  text-decoration-line: none;
+}
+a:link {
+  Color: #489797;
+  text-decoration-line: none;
+}
+a:visited {
+  Color: #489797;
+  text-decoration-line: none;
+}
+a:active {
+  color: #489797;
+  text-decoration-line: none;
+}
+a:hover {
+  color: #489797;
+  text-decoration-line: none;
+}
